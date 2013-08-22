@@ -6,6 +6,9 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', '~> 2.3.2.1'
+gem 'devise', '3.0.0.rc'
+gem 'simple_form'
+gem 'protected_attributes'
 
 group :development, :test do
 	gem 'sqlite3'
